@@ -1,0 +1,2 @@
+# egitimbolumu
+patika dev egitimleri
